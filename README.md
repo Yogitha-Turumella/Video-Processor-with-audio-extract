@@ -78,19 +78,18 @@ Edit
 📸 Screenshots
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
-### Streamlit UI
+### Streamlit UI  
 ![Streamlit UI](assets/streamlit_ui.png)
 
-### Input Video Screenshot
+### Input Video Screenshot  
 ![Input Video](assets/input_video.png)
 
-### Output Video Screenshot
+### Output Video Screenshot  
 ![Output Video](assets/output_video.png)
 
-### Audio Output Screenshot
+### Audio Output Screenshot  
 ![Audio Output](assets/audio_output.png)
+
 
 
 
