@@ -78,17 +78,19 @@ Edit
 📸 Screenshots
 ## 📸 Screenshots
 
+## 📸 Screenshots
+
 ### Streamlit UI
-![Screenshot 1](https://github.com/user-attachments/assets/90a08f2a-7c29-4a2c-9cd7-ad103a5a9d8c)
+![Streamlit UI](assets/streamlit_ui.png)
 
 ### Input Video Screenshot
-![Screenshot 2](https://github.com/user-attachments/assets/aee967b7-8a4e-46c8-86ea-105f2b3196dd)
+![Input Video](assets/input_video.png)
 
 ### Output Video Screenshot
-![Screenshot 3](https://github.com/user-attachments/assets/e18c7b03-c360-4a42-a7a2-049f89ddace5)
+![Output Video](assets/output_video.png)
 
 ### Audio Output Screenshot
-![Screenshot 4](https://github.com/user-attachments/assets/0ffdae65-ea82-4d1b-bbcc-0619cf7c5d4c)
+![Audio Output](assets/audio_output.png)
 
 
 
