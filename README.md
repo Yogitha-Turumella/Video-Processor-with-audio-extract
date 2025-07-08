@@ -76,13 +76,19 @@ Edit
 ├── requirements.txt
 ├── .gitignore
 📸 Screenshots
-<img width="1906" height="971" alt="Image" src="https://github.com/user-attachments/assets/90a08f2a-7c29-4a2c-9cd7-ad103a5a9d8c" />
+## 📸 Screenshots
 
-<img width="1905" height="1015" alt="Image" src="https://github.com/user-attachments/assets/aee967b7-8a4e-46c8-86ea-105f2b3196dd" />
+### Streamlit UI
+![Screenshot 1](https://github.com/user-attachments/assets/90a08f2a-7c29-4a2c-9cd7-ad103a5a9d8c)
 
-<img width="556" height="733" alt="Image" src="https://github.com/user-attachments/assets/e18c7b03-c360-4a42-a7a2-049f89ddace5" />
+### Input Video Screenshot
+![Screenshot 2](https://github.com/user-attachments/assets/aee967b7-8a4e-46c8-86ea-105f2b3196dd)
 
-<img width="1426" height="601" alt="Image" src="https://github.com/user-attachments/assets/0ffdae65-ea82-4d1b-bbcc-0619cf7c5d4c" />
+### Output Video Screenshot
+![Screenshot 3](https://github.com/user-attachments/assets/e18c7b03-c360-4a42-a7a2-049f89ddace5)
+
+### Audio Output Screenshot
+![Screenshot 4](https://github.com/user-attachments/assets/0ffdae65-ea82-4d1b-bbcc-0619cf7c5d4c)
 
 
 
