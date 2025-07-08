@@ -40,7 +40,7 @@ This project is a simple yet powerful tool built using **Python**, **Streamlit**
 
 ### 1️⃣ Clone the repo
 
-```bash
+
 git clone https://github.com/Yogitha-Turumella/Video-Processor-with-audio-extract.git
 cd Video-Processor-with-audio-extract
 2️⃣ Set up environment
