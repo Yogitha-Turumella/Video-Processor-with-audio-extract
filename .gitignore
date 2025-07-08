@@ -1,0 +1,7 @@
+venv/
+*.mp4
+*.wav
+__pycache__/
+*.pyc
+processed_outputs/
+input_videos/
